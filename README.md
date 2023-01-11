@@ -5,15 +5,15 @@
 <br/>
 
 <a href="https://iamkhalid.vercel.app">
-    <img src="https://img.shields.io/badge/Website-iamkhalid.vercel.app-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-iamkhalid.vercel.app-green?style=flat-square">
 </a>  
 
 </a>  
 <a href="https://www.linkedin.com/in/khalid--dolapo-adewale/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-pink?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:khaliddolapo@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=gold">
 </a>
 
 <br/> 
