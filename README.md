@@ -32,7 +32,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Bitcoin Investment.
+* 💻 Currently working on life.
 
 
 
